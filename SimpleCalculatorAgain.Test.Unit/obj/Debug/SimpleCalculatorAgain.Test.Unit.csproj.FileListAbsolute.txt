@@ -1,0 +1,17 @@
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain.Test.Unit\bin\Debug\SimpleCalculatorAgain.Test.Unit.dll
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain.Test.Unit\bin\Debug\SimpleCalculatorAgain.Test.Unit.pdb
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain.Test.Unit\bin\Debug\SimpleCalculatorAgain.exe
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain.Test.Unit\bin\Debug\SimpleCalculatorAgain.pdb
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain.Test.Unit\bin\Debug\SimpleCalculatorAgain.exe.config
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain.Test.Unit\obj\Debug\SimpleCalculatorAgain.Test.Unit.csprojAssemblyReference.cache
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain.Test.Unit\obj\Debug\SimpleCalculatorAgain.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain.Test.Unit\obj\Debug\SimpleCalculatorAgain.Test.Unit.csproj.CopyComplete
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain.Test.Unit\obj\Debug\SimpleCalculatorAgain.Test.Unit.dll
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain.Test.Unit\obj\Debug\SimpleCalculatorAgain.Test.Unit.pdb

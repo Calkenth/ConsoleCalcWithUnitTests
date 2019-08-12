@@ -1,0 +1,7 @@
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain\obj\Debug\SimpleCalculatorAgain.csprojAssemblyReference.cache
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain\obj\Debug\SimpleCalculatorAgain.csproj.CoreCompileInputs.cache
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain\bin\Debug\SimpleCalculatorAgain.exe.config
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain\bin\Debug\SimpleCalculatorAgain.exe
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain\bin\Debug\SimpleCalculatorAgain.pdb
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain\obj\Debug\SimpleCalculatorAgain.exe
+C:\Users\Plucio\source\repos\SimpleCalculatorAgain\obj\Debug\SimpleCalculatorAgain.pdb
